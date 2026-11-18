@@ -1,0 +1,112 @@
+{
+  "_readme": "Verified source data for render/render_entry.py. Every story below was independently fetched on 2026-11-18 and its title, publication time and body snippet compared with the claim drawn into the image. Claims that could not be corroborated are recorded under 'dropped'.",
+  "day": "TUESDAY",
+  "date": "17 NOVEMBER 2026",
+  "strap": "Kerch Bridge struck \u00b7 Iran talks at an impasse \u00b7 Democrats take Alaska",
+  "footer_sources": "NPR \u00b7 AL JAZEERA \u00b7 THE GUARDIAN",
+  "cards": [
+    {
+      "scene": "bridge",
+      "region": "EUROPE",
+      "beat": "WAR",
+      "headline": "Ukraine strikes Kerch Bridge with drones and missiles",
+      "source": "NPR",
+      "accent": "#E8B34A",
+      "verify": {
+        "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+        "http": 200,
+        "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+        "published": "2026-11-17T04:50:45-05:00",
+        "modified": "2026-11-17T15:14:09-05:00",
+        "snippet": "Ukrainian drones and missiles struck the Kerch Bridge linking Russia to occupied Crimea, Ukrainian President Volodymyr Zelenskyy said, as Russia reported its forces downed Ukrainian drones.",
+        "status": "corroborated"
+      }
+    },
+    {
+      "scene": "flags",
+      "region": "MIDDLE EAST",
+      "beat": "WAR",
+      "headline": "Iran rejects \u2018no war, no peace\u2019; US says no deal needed",
+      "source": "AL JAZEERA",
+      "accent": "#E2703A",
+      "verify": {
+        "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict",
+        "http": 200,
+        "title": "Is the US-Israel war on Iran turning into a \u2018frozen conflict\u2019?",
+        "published": "2026-11-17T12:33:51Z",
+        "modified": "2026-11-17T12:38:03Z",
+        "snippet": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+        "status": "corroborated"
+      }
+    },
+    {
+      "scene": "chamber",
+      "region": "N. AMERICA",
+      "beat": "POLITICS",
+      "headline": "Peltola beats Sullivan; Democrats reach 56 Senate seats",
+      "source": "GUARDIAN",
+      "accent": "#5B8DEF",
+      "verify": {
+        "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
+        "http": 200,
+        "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+        "published": "2026-11-18T03:25:14.000Z",
+        "modified": "2026-11-18T09:42:00.000Z",
+        "snippet": "Republican incumbent beaten in race dominated by controversy over second candidate named Dan Sullivan",
+        "status": "corroborated; published 03:25 UTC 18 Nov = evening of 17 Nov in US time zones, so first reported on 17 Nov in any time zone"
+      }
+    },
+    {
+      "scene": "chair",
+      "region": "N. AMERICA",
+      "beat": "CENTRAL BANK",
+      "headline": "Fed\u2019s Lisa Cook refuses to attend White House hearing",
+      "source": "AL JAZEERA",
+      "accent": "#9BE0C0",
+      "verify": {
+        "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing",
+        "http": 200,
+        "title": "US Fed\u2019s Lisa Cook refuses to attend White House hearing",
+        "published": "2026-11-17T22:01:27Z",
+        "snippet": "US President Donald Trump has been trying to fire Cook since August 2025.",
+        "status": "corroborated (headline matches the article h1)"
+      }
+    },
+    {
+      "scene": "racks",
+      "region": "N. AMERICA",
+      "beat": "NETWORKS",
+      "headline": "NSA blames US network outage on routine maintenance",
+      "source": "AL JAZEERA",
+      "accent": "#54C7D9",
+      "verify": {
+        "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage",
+        "http": 200,
+        "title": "NSA attributes US network outage to routine \u2018maintenance\u2019 activities",
+        "published": "2026-11-17T19:03:14Z",
+        "snippet": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
+        "status": "corroborated (headline matches the article h1)"
+      }
+    },
+    {
+      "scene": "tower",
+      "region": "N. AMERICA",
+      "beat": "AVIATION",
+      "headline": "Sen. Jack Reed says FAA needs a real plan, not just money",
+      "source": "NPR",
+      "accent": "#8FA6C4",
+      "verify": {
+        "url": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
+        "http": 200,
+        "title": "Jack Reed calls for stronger FAA oversight after ground stop",
+        "published": "2026-11-17T06:58:42-05:00",
+        "snippet": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
+        "status": "corroborated; article h1 reads 'Sen. Jack Reed says FAA needs a real plan, not just more money'"
+      }
+    }
+  ],
+  "dropped": [
+    "None of the six researched stories was dropped: each was corroborated against the publisher's own page. The original research note's framing was tightened where the source's own headline differed (e.g. the Iran story is reported as a question about a 'frozen conflict', so the image states only the confirmed facts: Iran rejected 'no war, no peace' and Washington said it did not need a deal).",
+    "Not asserted anywhere in the image: any casualty figure, any outcome of the Iran war, any seat total other than the 56 the Guardian headline states, and any cause of the NSA outage beyond 'maintenance' as the NSA itself attributed it."
+  ]
+}
